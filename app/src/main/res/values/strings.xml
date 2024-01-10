@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebSocket</string>
+    <string name="button_title">Moth WebSocket</string>
+    <string name="button_start">start</string>
+    <string name="text_output">output</string>
+    <string name="up">N</string>
+    <string name="button_text">Button</string>
+</resources>
